@@ -1,6 +1,8 @@
 # ObjGizmosPrototype
 
-this Prototype for createing some tools to be able to move , rotate and scale an object in
-the Game mode using 3d Gizmos.
+This Prototype shows some functionality that make the User able to move , rotate and scale an object in
+the Game mode using UI 3d Gizmos.
 
-you Find the MacOS Build in the Builds Folder : https://github.com/mohamedmoghazy/ObjGizmosPrototype/tree/master/Builds
+The Target from this Project : just to Practice some tichnical skills.
+
+Please Find the MacOS Build here : https://github.com/mohamedmoghazy/ObjGizmosPrototype/tree/master/Builds
